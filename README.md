@@ -19,6 +19,6 @@
 	<li>Capabila sa afiseze clasele initializate </li>
 	<li>Contine un meniu interactiv in partea de main prin care se pot verifica toate functiile claselor</li>
 	<li>are o metoda pentru aplicarea reducerilor la abonamente si una pentru verificarea cartilor returnate dupa imprumut</li>
-	<li>sunt implementate toate functiile cerute in cerinta< /li>
+	<li>sunt implementate toate functiile cerute in cerinta</li>
 </ul>
 
