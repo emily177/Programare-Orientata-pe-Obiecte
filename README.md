@@ -22,3 +22,7 @@
 	<li>sunt implementate toate functiile cerute in cerinta</li>
 </ul>
 
+<h1>Proiect POO (Cerința 2)</h1>
+
+<p>	Pentru aceasta parte a proiectului am implementat mostenirea in aproximativ 3 situatii, una dintre ele fiind mostenire in diamant. Au fost implementate interfete, clase abstracte si metode virtuale. 
+Pe decursul programului este folosit polimorfismul , o data aplicata in apelarea unei metode pentru un vector de referinte, inca o data in folosirea destructorului virtual si de doua ori in supraincarcarea operatorului de citire. Programul mai are adaugat si doua metode statice care numara de cate ori a fost apelat desctructorul clasei carte si de cate ori a fost creeata o carte.</p>
